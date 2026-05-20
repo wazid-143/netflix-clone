@@ -6,6 +6,10 @@ function Footer() {
 
       <p>© 2026 Netflix Clone. All Rights Reserved.</p>
 
+      <p className="signature">
+        Developed by Wazid Ansari 🚀
+      </p>
+
     </footer>
   );
 }
